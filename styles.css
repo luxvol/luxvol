@@ -1,0 +1,16 @@
+body{
+    background-color: #222222;
+    font-size: 24px;
+    color: white;
+}
+
+#powrot{
+    border:solid;
+    background-color: lightgray;
+    float:left;
+    width:250px;
+
+}
+#powrot:hover{
+    background-color: white;
+}
