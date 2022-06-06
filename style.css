@@ -89,7 +89,7 @@ margin:auto;
     height:260px;
     width:260px;
     text-align: center;
-    font-size:40px;
+    font-size:30px;
     font-weight:bold;
     background-color:lightgray;
     border-width:10px;
@@ -123,6 +123,7 @@ margin:auto;
 @media screen and (max-width:800px)
 {
     #menu1{height:2400px; width:300px; padding:1.5%;}
+    #link{font-size:20px;}
     #menu2{height: 1000px; width:34%;}
     #link{height:150px; width:150px;}
     #RTX3090ti, #RTX3080ti, #RTX3070ti, #RX6900xt, #RTX3060ti, #RX6600xt, #RTX3050ti, #galeria, #ankieta{height:280px; width:280px;}
@@ -218,4 +219,9 @@ td{
 
 #spec1{
     text-align:center;
+}
+
+#footer{
+    text-align:center;
+    width:100%;
 }
